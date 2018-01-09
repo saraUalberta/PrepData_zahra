@@ -1,0 +1,7 @@
+# AZS
+# compute_vox2vox talsrcimg talsrcimg_to_711-2C_as_mni_average_305_t4 /usr/local/freesurfer/average/711-2C_as_mni_average_305
+# $Id: compute_vox2vox.c,v 1.3 2010/02/27 01:41:53 nicks Exp $
+  0.912567  0.000971 -0.013575   12.7750
+  0.008053  0.882900 -0.125925    0.9008
+  0.003230  0.155803  0.933314   -0.3280
+  0.000000  0.000000  0.000000    1.0000
