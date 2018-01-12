@@ -1,0 +1,16 @@
+status file for recon-all
+Thu Jan 11 01:03:58 UTC 2018
+#@# MotionCor Thu Jan 11 01:04:09 UTC 2018
+#@# Talairach Thu Jan 11 01:05:12 UTC 2018
+#@# Talairach Failure Detection Thu Jan 11 01:41:25 UTC 2018
+#@# Nu Intensity Correction Thu Jan 11 01:41:25 UTC 2018
+#@# Intensity Normalization Thu Jan 11 02:01:40 UTC 2018
+#@# Skull Stripping Thu Jan 11 02:07:15 UTC 2018
+#@# EM Registration Thu Jan 11 02:54:49 UTC 2018
+#@# CA Normalize Thu Jan 11 03:34:48 UTC 2018
+#@# CA Reg Thu Jan 11 03:38:42 UTC 2018
+#@# SubCort Seg Thu Jan 11 09:22:33 UTC 2018
+Linux zabbasi 3.13.0-121-generic #170-Ubuntu SMP Wed Jun 14 09:04:33 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
+
+recon-all -s 3607 exited with ERRORS at Thu Jan 11 09:54:17 UTC 2018
+
